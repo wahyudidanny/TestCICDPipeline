@@ -10,6 +10,7 @@ namespace CICDPipeline
             Console.ReadKey();
             Console.WriteLine("testing hwlloroldke 2");
             Console.ReadKey();
+            Console.WriteLine("testing hello world 3");
 
         }
     }
