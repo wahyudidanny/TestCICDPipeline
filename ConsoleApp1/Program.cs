@@ -8,6 +8,9 @@ namespace CICDPipeline
         {
             Console.WriteLine("testing hwllorold");
             Console.ReadKey();
+            Console.WriteLine("testing hwlloroldke 2");
+            Console.ReadKey();
+
         }
     }
 }
